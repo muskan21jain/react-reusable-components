@@ -1,0 +1,33 @@
+{
+  "name": "react_webpack_starter",
+  "version": "1.0.0",
+  "description": "boilerplate for react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muskan21jain/reactreusablecomponents.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/muskan21jain/reactreusablecomponents/issues"
+  },
+  "homepage": "https://github.com/muskan21jain/reactreusablecomponents#readme",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "webpack-cli": "^4.7.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.2.2",
+    "babel-preset-env": "^1.7.0",
+    "babel-preset-react": "^6.24.1",
+    "html-webpack-plugin": "^5.3.1",
+    "webpack": "^5.38.1",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
