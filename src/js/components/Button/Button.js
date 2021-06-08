@@ -4,7 +4,7 @@ export default class Button extends Component {
   render() {
     return (
       <div>
-        <button>Reusable Button</button>
+        <button>Reusable Button Again</button>
       </div>
     );
   }
